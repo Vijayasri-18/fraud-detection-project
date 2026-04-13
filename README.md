@@ -7,6 +7,4 @@ The dataset is preprocessed by removing unnecessary columns and converting categ
 
 Due to the highly imbalanced dataset, fraud cases are rare and harder to detect.
 
----
 
-✨ Mini Project
